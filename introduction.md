@@ -3,10 +3,28 @@
 The "Writing with AI" activity attempts to help studnets understand the writing process, how AI "writes," and how they might make use of AI in their own writing practice. It takes as a presupposition that such AI, such as [ChatGPT](https://openai.com/blog/chatgpt), are here to stay, and that instructors can and should speak to the role of the technology in the writing process rather than assume we can keep it out of student view into the future. While I recognize the value of writing without AI, which can only realistically be enforced with a return to in-class writing exams, I think that teaching students how to use this technology effectively is both more viable and potentially more fruitful for their own future work, where they will have access to these tools in whatever contexts they find themselves writing in as they continue their college and post-college careers.
 
 <span style="color:red">
-The activity is intended to last for
+The activity is intended to last for </span>
 
 ## Context
-This activity is intended for writing-focused courses, namely first-year writing or digital writing courses.
+This activity is intended for writing-focused courses, namely first-year writing or digital writing courses. It is in response to ongoing conversations about the role of text generation AI in college courses, namely writing courses, as my background is in English composition and rhetoric.
+
+At the University of Pittsburgh, where I am working on my PhD, there is a [resource page for faculty](https://teaching.pitt.edu/resources/chatgpt-resources-for-faculty/) that provides some useful starting points. In their list of "inclusive teaching strategies," they include: 
+
+> "Develop assignments that cannot successfully be completed using AI tools. This might involve having students complete part or all of the assignment during class or designing assignments that include tasks that are outside of ChatGPT’s current capabilities. Examples might include assignments that require students to draw from recent events or class discussions or assignments that incorporate research and citations which you can then check."
+
+While I think such an approach is useful, I want to come at it from the other angle: designing writing assignments that make use of ChatGPT to clarify how it works and can be utilized. For example, consider an article linked on the Pitt page, Eric Prochaska's ["Embrace the Bot: Designing Writing Assignments in the Face of AI."](https://www.facultyfocus.com/articles/course-design-ideas/embrace-the-bot-designing-writing-assignments-in-the-face-of-ai/) His third method for teaching with or around AI is an approach called "If you can't beat them, join them," which includes rhetorical analysis of AI-generated responses, revising such resposes, presenting on those responses, or otherwise interacting with results from AI text generation. I think this is in the right direction, but could go even further and do more to integrate student and AI writing.
+
+Two articles from *Inside Higher Ed* provide more opportunities for working with students to make use of text generation AI. Susan D'Agostino, in her article ["ChatGPT Advice Academics Can Use Now"](https://www.insidehighered.com/news/2023/01/12/academic-experts-offer-advice-chatgpt), features suggestions from several professors, including this advice from NYU's Nancy Gleason:
+
+> "Next, consider the tools relative to your course. What are the cognitive tasks students need to perform without AI assistance? When should students rely on AI assistance? Where can an AI aid facilitate a better outcome? Are there efficiencies in grading that can be gained? Are new rubrics and assignment descriptions needed? Will you add an AI writing code of conduct to your syllabus? Do these changes require structural shifts in timetabling, class size or number of teaching assistants?"
+
+Note the emphasis on an integrative approach, identifying what skills students need in the context of the course, and what on the other hand might be reasonably offloaded. In an example from a class I am teaching right now, which is a literature course, I often ask students to do in-text citations for works included on the syllabus, with no expectation of a specific format like MLA or APA nor a works cited list. The reason is that the course is not intended to teach them proper citational formats, but rather to understand how to include important information in their writing such that I can verify and see the context of what they choose to include. The point is not more rigorous citational standards, but communicating where their information comes from. How might writing be taught to consider what is important for students to do, while helping them identify when and where AI is appropriate as part of that process. This perspective is echoed in Jeremy Weissman's less-rosy ["ChatGPT Is a Plague Upon Education"](https://www.insidehighered.com/views/2023/02/09/chatgpt-plague-upon-education-opinion), where he suggests the development of student "familiarity and even expertise with these programs, since such skills will likely be in demand in the job market."
+
+Others in D'agostino's article provide fruitful suggestions. University of Mississippi's Robert Cummings suggests experimentation, a building of "AI literacy" so that students can understand the tools they have available as writers. North Carolina State University's Paul Fyfe gives assignments where students "cheat" through use of ChatGPT as an opportunity to start a conversation about the technology. College of Marin's Anna Mills suggests a back-and-forth between student expectations and understandings on the one hand, and outputs by ChatGPT on the other.
+
+In each of these cases, I think there is a sense that the technology exists and will not vanish; it may very well be essential to future work in variety of job markets; and that there is an opportunity to help students understand how to intentionally make use of the technology as part of a broader writing process. Thus, this activity is intended to build on these ideas with a specific implementation.
+
+<span style="color:red">
 
 ## Implementation
 Despite the idiosyncratic context from which this activity arose, I think there are three broad principles that can help someone identify if this activity is a good fit for their classroom.
@@ -19,20 +37,4 @@ If these three principles are met, I believe that the activity could be implemen
  
 ## Instructional Materials
 All instructional materials for this activity—including an instructional guide, a student program and its implementation in code, and a template generator in Markdown and Python using Jupyter Notebooks—are available via a GitHub repository (https://github.com/addeldin/genre-generators).
-
-## Notes
-<sup>1</sup> The two implementations used are Matt Sephton's (https://www.gingerbeardman.com/loveletter/), which presents outputs of the generator, and Annette Vee's (https://jsfiddle.net/nettework/6f7abaaa/), which presents outputs along with underlying code in Javascript.
-<sup>2</sup> For examples of relevant approaches to the study of genre from a composition and rhetoric perspective that account for the rhetorical dimensions of written works in social context, see the cited works by Rebecca Nowacek (28), Charles Bazerman (69), and Carolyn Miller (59).
-<sup>3</sup> By *digital representation*, *digital computation*, and *encoding*, I refer to the fact that to represent a concept using a computer, that concept must be represented digitally, or via discrete numbers, generally the binary digits 0 and 1, which are then computed in various combinations to produce new results. For example, to represent the continuous color spectrum, colors are encoded via digital representation by encoding any color as a combination of 256 possible shades of red, green, and blue. While over 16 million colors is a lot, it is not a direct reflection of the full color spectrum, which due to being continuous necessarily contains an infinite number of possible colors.
-<sup>4</sup> For resources that can develop an understanding of digital representation, digital computation, digital encoding, and/or the basic concepts of programming for the instructor as well as the students, consider Karen Hao and Jonathan Stray's relatively short breakdown of how a courtroom sentencing algorithm digitally represents ideas of justice and risk; Charles Petzold's book *Code: The Hidden Language of Computer Hardware and Software*, in particular the chapter "Bit by Bit by Bit"; or Paul Ford's in-depth but highly readable Businessweek article, "What Is Code?" All of these texts were used in both terms that I taught "Digital Humanity," with "What Is Code?" being assigned and discussed the class session prior to the start of this activity.
-
-## References
-Bazerman, Charles. "Systems of Genres and the Enactment of Social Intentions." *Genre and the New Rhetoric*, edited by Aviva Freedman and Peter Medway, Taylor & Francis,  1994, pp. 67-85.
-Ford, Paul. “What Is Code? If You Don't Know, You Need to Read This.” *Bloomberg*, Bloomberg L.P., 11 June 2015, https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/.
-Hao, Karen, and Jonathan Stray. “Can You Make AI Fairer than a Judge? Play Our Courtroom Algorithm Game.” *MIT Technology Review*, MIT Technology Review, 10 Jan. 2022, https://www.technologyreview.com/2019/10/17/75285/ai-fairer-than-judge-criminal-risk-assessment-algorithm/.
-Miller, Carolyn. "Genre as Social Action (1984), Revisited 30 Years Later (2014)." *Letras & Letras*, 2015, pp. 56-72, doi:10.14393/LL63-v31n3a2015-5.
-Nowacek, Rebecca S. *Agents of Integration: Understanding Transfer as a Rhetorical Act*. Southern Illinois UP, 2011.
-Petzold, Charles. *Code: The Hidden Language of Computer Hardware and Software*. Microsoft Press, 1999.
- 
-
 </span>
