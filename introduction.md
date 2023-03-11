@@ -1,12 +1,11 @@
-# "Writing with AI" by Addison Eldin
+# "Personal Writing with AI" by Addison Eldin
 ## Top-Level
-The "Writing with AI" activity attempts to help studnets understand the writing process, how AI "writes," and how they might make use of AI in their own writing practice. It takes as a presupposition that such AI, such as [ChatGPT](https://openai.com/blog/chatgpt), are here to stay, and that instructors can and should speak to the role of the technology in the writing process rather than assume we can keep it out of student view into the future. While I recognize the value of writing without AI, which can only realistically be enforced with a return to in-class writing exams, I think that teaching students how to use this technology effectively is both more viable and potentially more fruitful for their own future work, where they will have access to these tools in whatever contexts they find themselves writing in as they continue their college and post-college careers.
+The "Personal Writing with AI" activity attempts to help students understand the writing process, how AI "writes," and how they might make use of AI in their own writing practice. It takes as a presupposition that such AI, such as [ChatGPT](https://openai.com/blog/chatgpt), are here to stay, and that instructors can and should speak to the role of the technology in the writing process rather than assume we can keep it out of student view into the future. While I recognize the value of writing without AI, which can only realistically be enforced with a return to in-class writing exams, I think that teaching students how to use this technology effectively is both more viable and potentially more fruitful for their own future work, where they will have access to these tools in whatever contexts they find themselves writing in as they continue their college and post-college careers.
 
-<span style="color:red">
-The activity is intended to last for </span>
+This activity is intended for writing-focused courses, namely first-year writing or digital writing courses. It is designed to take roughly one week of class sessions with some writing done between class sessions by students.
 
 ## Context
-This activity is intended for writing-focused courses, namely first-year writing or digital writing courses. It is in response to ongoing conversations about the role of text generation AI in college courses, namely writing courses, as my background is in English composition and rhetoric.
+"Personal Writing with AI" was designed in response to ongoing conversations about the role of text generation AI in college courses, namely writing courses, as my background is in English composition and rhetoric.
 
 At the University of Pittsburgh, where I am working on my PhD, there is a [resource page for faculty](https://teaching.pitt.edu/resources/chatgpt-resources-for-faculty/) that provides some useful starting points. In their list of "inclusive teaching strategies," they include: 
 
@@ -24,17 +23,14 @@ Others in D'agostino's article provide fruitful suggestions. University of Missi
 
 In each of these cases, I think there is a sense that the technology exists and will not vanish; it may very well be essential to future work in variety of job markets; and that there is an opportunity to help students understand how to intentionally make use of the technology as part of a broader writing process. Thus, this activity is intended to build on these ideas with a specific implementation.
 
-<span style="color:red">
-
 ## Implementation
-Despite the idiosyncratic context from which this activity arose, I think there are three broad principles that can help someone identify if this activity is a good fit for their classroom.
+To identify whether this activity and set of assignments are appropriate for your class, I think there are three broad criteria to consider.
 
-1. The course should, in part or in whole, speak to digital technology as at once social and technical, or *sociotechnical*. That is, some part of the class should speak to how ideas such as digital representation, digital computation, and/or encoding are relevant in human use of the technology.<sup>3</sup>  Relatedly, the course should spend some time prior to the activity discussing these concepts—whether in those terms or through a focus on programming and code—to prepare students for the conversation about the Strachey implementations that will prompt students' own creative work in developing a generator.<sup>4</sup> 
-2. Students should, generally, have some experience with writing in college. The instructor will guide students through the basics of rhetorical analysis by considering the rhetorical context, purpose, and norms of a written genre, namely the love letter. Students who have taken a first-year writing course or otherwise learned about different kinds of academic writing—e.g. what differentiates an essay and a research paper—will be better situated to engage in this conversation. A class made up of students who are new to college and have no prior college writing experience might find this conversation more difficult, which could make the rest of the activity difficult.
-3. While students do not need to know how to code, the instructor must have basic facility with at least one higher level programming language that enables the manipulation of text, e.g. Python or Javascript. The basic skills required include using strings, variables, and lists in conjunction with each other. Further, the instructor will need to be able to present the code and its outputs in sequence with text that contextualizes the code with some kind of projection technology.
+1. Is personal writing an appropriate subject of focus for your course?
+2. Is your course amenable to an iterative writing process that relies on student reflection?
+3. Is the role of ChatGPT as a kind of writing tecnhology an appropriate subject for your course?
 
-If these three principles are met, I believe that the activity could be implemented into a course regardless of its home department. While the rhetorical analysis part of the assignment might seem limiting in terms of instructor comfort with guiding the discussion, I think that the questions provided and the instructor's own awareness of the contexts, purposes, and norms of written genres in their own field are sufficient for facilitating the rhetorical analysis in the activity.
- 
+If the answer to these three questions is "yes," then I think this activity is appropriate for the course.
+
 ## Instructional Materials
-All instructional materials for this activity—including an instructional guide, a student program and its implementation in code, and a template generator in Markdown and Python using Jupyter Notebooks—are available via a GitHub repository (https://github.com/addeldin/genre-generators).
-</span>
+The instructional materials for this activity include this introduction and an instructional guide, which walks through the activity and assignment structure. The instructional guide can be found in this repository as `instructional-guide.md`.
