@@ -34,7 +34,7 @@ To identify whether this activity and set of assignments are appropriate for you
 2. Is your course amenable to an iterative writing process that relies on student reflection, with several shorter assignments that lead into a longer assignment?
 3. Is the role of ChatGPT as a kind of writing tecnhology an appropriate subject for your course?
 
-If the answer to these four questions is "yes," then I think this activity is appropriate for the course.
+If the answer to these three questions is "yes," then I think this activity is appropriate for the course.
 
 ## Instructional Materials
 The instructional materials for this activity include this introduction and an instructional guide, which walks through the activity and assignment structure. The instructional guide can be found in this repository as `instructional-guide.md`, which includes a more thorough explanation of what students will need to complete this activity.
