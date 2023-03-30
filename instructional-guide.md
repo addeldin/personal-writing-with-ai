@@ -7,9 +7,9 @@ While you can collect submissions each session, I recommend not collecting and g
 Please note that this guide is just that: a guide. You are welcome to change it as you see fit for your classroom, and I would in fact love to hear about anyone doing so and how they went about the activity.
 
 ## Materials and Software Required
-Students will need a device that can access the internet, an account with [OpenAI](https://openai.com/), access to [ChatGPT](https://chat.openai.com), and a way to store and access its outputs. Ideally, students will have access to their own laptops or in-class computers. Students could, if needed, access ChatGPT via their phones and access the outputs later on a separate laptop. **Note that you will need to check on the day of the first session that ChatGPT or another AI chat is up and usable.
+Students will need a device that can access the internet, an account with [OpenAI](https://openai.com/), access to [ChatGPT](https://chat.openai.com), and a way to store and access its outputs. Ideally, students will have access to their own laptops or in-class computers. Students could, if needed, access ChatGPT via their phones and access the outputs later on a separate laptop. Students will also need access to word processing software for writing and submitting written work.
 
-Students will also need access to word processing software for writing and submitting written work.
+**Note that you will need to check on the day of the first session that ChatGPT or another AI chat is up and usable.**
 
 ## Prior to Session 1
 ### Setup
